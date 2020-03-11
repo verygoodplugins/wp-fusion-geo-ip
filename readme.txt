@@ -1,15 +1,15 @@
 === WP Fusion - Geo IP Addon ===
 Contributors: verygoodplugins
-Tags: wp fusion, video, audio, youtube, embed, crm, vimeo, wistia, vooplayer
+Tags: wp fusion, activecampaign, geo
 Requires at least: 4.0
 Tested up to: 5.0.1
 Stable tag: 1.1
 
-Enables tracking user engagement with embedded videos and audio by applying tags in your CRM based on certain triggers.
+Syncs geolocation data between ipgeolocation.io and ActiveCampaign when users register or log into WordPress.
 
 == Description ==
 
-Enables tracking user engagement with embedded videos and audio by applying tags in your CRM based on certain triggers.
+Syncs geolocation data between ipgeolocation.io and ActiveCampaign when users register or log into WordPress.
 
 == Changelog ==
 
